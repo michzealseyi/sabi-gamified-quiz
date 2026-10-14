@@ -2,8 +2,8 @@
 
 A gamified quiz web app where young people answer short quizzes, earn XP, level up, unlock badges, keep daily streaks and compete on a weekly leaderboard.
 
-**Live demo:** https://YOUR-APP.vercel.app
-**Demo login:** demo@YOUR-EMAIL.com / YOUR-DEMO-PASSWORD
+**Live demo:** https://sabi-gamified-quiz.vercel.app
+**Demo login:** demo@sabi-quiz.dev / SabiDemo2026!
 
 ## Features
 
